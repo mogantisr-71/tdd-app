@@ -1,0 +1,23 @@
+.card {
+    width: 500px;
+    height: 400px;
+    margin: 30px;
+    background-color: #fff;
+}
+
+.card__header {
+    display: flex;
+    justify-content: space-around;
+    background-color: darkgreen;
+    color: white;
+}
+
+.card__image {
+    height: 100%;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
